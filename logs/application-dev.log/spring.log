@@ -1,0 +1,299 @@
+2022-04-29 02:08:57.536  WARN 15357 --- [HikariPool-3 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=3h42m6s15ms).
+2022-04-29 06:09:16.215  WARN 15357 --- [HikariPool-3 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=4h18s672ms).
+2022-04-29 08:27:53.534  WARN 15357 --- [HikariPool-3 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=2h18m37s835ms).
+2022-04-29 09:19:45.957  WARN 15357 --- [HikariPool-3 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=51m52s424ms).
+2022-04-29 10:21:06.842  INFO 15357 --- [Thread-24] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2022-04-29 10:21:06.861  INFO 15357 --- [Thread-24] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2022-04-29 10:21:23.129  WARN 15357 --- [restartedMain] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5001 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:21:28.135  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Starting SpringStudyApplication using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 15357 (/Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy/target/classes started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:21:28.136  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:21:28.452  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:21:28.457  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:21:28.565  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-04-29 10:21:28.566  INFO 15357 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 10:21:28.566  INFO 15357 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 10:21:28.574  INFO 15357 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 10:21:28.575  INFO 15357 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 435 ms
+2022-04-29 10:21:38.701  WARN 15357 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-04-29 10:21:38.701  WARN 15357 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:21:38.726  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Starting...
+2022-04-29 10:21:38.734  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Start completed.
+2022-04-29 10:21:38.753  INFO 15357 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-29 10:21:38.766  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-04-29 10:21:38.770  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Started SpringStudyApplication in 30.878 seconds (JVM running for 15219.515)
+2022-04-29 10:21:38.772  INFO 15357 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-29 10:21:38.772  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 启动成功！！
+2022-04-29 10:21:38.773  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 地址: 	http://127.0.0.1:8089
+2022-04-29 10:21:40.176  INFO 15357 --- [Thread-28] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown initiated...
+2022-04-29 10:21:40.181  INFO 15357 --- [Thread-28] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown completed.
+2022-04-29 10:21:55.396  WARN 15357 --- [restartedMain] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5003 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:22:00.400  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Starting SpringStudyApplication using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 15357 (/Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy/target/classes started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:22:00.400  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:22:00.523  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:22:00.525  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:22:00.590  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-04-29 10:22:00.591  INFO 15357 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 10:22:00.591  INFO 15357 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 10:22:00.597  INFO 15357 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 10:22:00.598  INFO 15357 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 194 ms
+2022-04-29 10:22:10.701  WARN 15357 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-04-29 10:22:10.702  WARN 15357 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:22:10.721  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Starting...
+2022-04-29 10:22:10.726  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Start completed.
+2022-04-29 10:22:10.740  INFO 15357 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-29 10:22:10.752  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-04-29 10:22:10.756  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Started SpringStudyApplication in 30.4 seconds (JVM running for 15251.502)
+2022-04-29 10:22:10.758  INFO 15357 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-29 10:22:10.758  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 启动成功！！
+2022-04-29 10:22:10.759  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 地址: 	http://127.0.0.1:8089
+2022-04-29 10:39:21.582  WARN 24164 --- [main] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5002 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:39:26.595  INFO 24164 --- [main] c.e.springstudy.generator.CodeGenerator  : Starting CodeGenerator using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 24164 (started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:39:26.597  INFO 24164 --- [main] c.e.springstudy.generator.CodeGenerator  : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:39:27.854  INFO 24164 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:39:27.894  INFO 24164 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:39:51.501  WARN 24164 --- [main] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:39:52.005  INFO 24164 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-29 10:39:52.421  INFO 24164 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-04-29 10:39:52.712  INFO 24164 --- [main] c.e.springstudy.generator.CodeGenerator  : Started CodeGenerator in 46.676 seconds (JVM running for 48.685)
+2022-04-29 10:39:53.181  WARN 24164 --- [main] org.apache.velocity.deprecation          : configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-04-29 10:39:53.182  WARN 24164 --- [main] org.apache.velocity.deprecation          : configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-04-29 10:39:53.586  INFO 24164 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-04-29 10:39:53.597  INFO 24164 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-04-29 10:39:55.031  INFO 15357 --- [Thread-32] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown initiated...
+2022-04-29 10:39:55.038  INFO 15357 --- [Thread-32] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown completed.
+2022-04-29 10:40:10.212  WARN 15357 --- [restartedMain] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5001 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:40:15.215  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Starting SpringStudyApplication using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 15357 (/Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy/target/classes started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:40:15.216  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:40:15.343  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:40:15.345  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:40:15.412  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-04-29 10:40:15.412  INFO 15357 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 10:40:15.413  INFO 15357 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 10:40:15.421  INFO 15357 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 10:40:15.421  INFO 15357 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 201 ms
+2022-04-29 10:40:25.538  WARN 15357 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-04-29 10:40:25.538  WARN 15357 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:40:25.558  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Starting...
+2022-04-29 10:40:25.564  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Start completed.
+2022-04-29 10:40:25.579  INFO 15357 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-29 10:40:25.589  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-04-29 10:40:25.603  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Started SpringStudyApplication in 30.445 seconds (JVM running for 16342.326)
+2022-04-29 10:40:25.605  INFO 15357 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-29 10:40:25.605  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 启动成功！！
+2022-04-29 10:40:25.605  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 地址: 	http://127.0.0.1:8089
+2022-04-29 10:41:37.675  INFO 15357 --- [Thread-36] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Shutdown initiated...
+2022-04-29 10:41:37.679  INFO 15357 --- [Thread-36] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Shutdown completed.
+2022-04-29 10:41:52.856  WARN 15357 --- [restartedMain] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5011 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:41:57.862  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Starting SpringStudyApplication using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 15357 (/Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy/target/classes started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:41:57.863  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:41:58.046  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:41:58.048  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:41:58.121  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-04-29 10:41:58.122  INFO 15357 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 10:41:58.122  INFO 15357 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 10:41:58.128  INFO 15357 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 10:41:58.128  INFO 15357 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 259 ms
+2022-04-29 10:42:04.300  WARN 24210 --- [main] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5004 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:42:08.242  WARN 15357 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-04-29 10:42:08.242  WARN 15357 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:42:08.261  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Starting...
+2022-04-29 10:42:08.266  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Start completed.
+2022-04-29 10:42:08.281  INFO 15357 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-29 10:42:08.292  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-04-29 10:42:08.297  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Started SpringStudyApplication in 30.497 seconds (JVM running for 16445.022)
+2022-04-29 10:42:08.298  INFO 15357 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-29 10:42:08.299  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 启动成功！！
+2022-04-29 10:42:08.299  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 地址: 	http://127.0.0.1:8089
+2022-04-29 10:42:09.307  INFO 24210 --- [main] c.e.springstudy.generator.CodeGenerator  : Starting CodeGenerator using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 24210 (started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:42:09.309  INFO 24210 --- [main] c.e.springstudy.generator.CodeGenerator  : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:42:09.711  INFO 15357 --- [Thread-40] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Shutdown initiated...
+2022-04-29 10:42:09.715  INFO 15357 --- [Thread-40] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Shutdown completed.
+2022-04-29 10:42:10.226  INFO 24210 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:42:10.244  INFO 24210 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:42:24.849  WARN 15357 --- [restartedMain] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5002 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:42:29.853  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Starting SpringStudyApplication using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 15357 (/Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy/target/classes started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:42:29.853  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:42:30.103  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:42:30.105  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:42:30.233  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-04-29 10:42:30.235  INFO 15357 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 10:42:30.240  INFO 15357 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 10:42:30.301  INFO 15357 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 10:42:30.301  INFO 15357 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 444 ms
+2022-04-29 10:42:33.231  WARN 24210 --- [main] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:42:33.590  INFO 24210 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-29 10:42:34.096  INFO 24210 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-04-29 10:42:34.426  INFO 24210 --- [main] c.e.springstudy.generator.CodeGenerator  : Started CodeGenerator in 45.837 seconds (JVM running for 47.811)
+2022-04-29 10:42:34.893  WARN 24210 --- [main] org.apache.velocity.deprecation          : configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-04-29 10:42:34.894  WARN 24210 --- [main] org.apache.velocity.deprecation          : configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-04-29 10:42:35.233  INFO 24210 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-04-29 10:42:35.249  INFO 24210 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-04-29 10:42:40.560  WARN 15357 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-04-29 10:42:40.560  WARN 15357 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:42:40.580  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Starting...
+2022-04-29 10:42:40.586  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Start completed.
+2022-04-29 10:42:40.603  INFO 15357 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-29 10:42:40.615  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-04-29 10:42:40.620  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Started SpringStudyApplication in 30.812 seconds (JVM running for 16477.345)
+2022-04-29 10:42:40.622  INFO 15357 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-29 10:42:40.622  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 启动成功！！
+2022-04-29 10:42:40.623  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 地址: 	http://127.0.0.1:8089
+2022-04-29 10:42:42.035  INFO 15357 --- [Thread-44] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Shutdown initiated...
+2022-04-29 10:42:42.039  INFO 15357 --- [Thread-44] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Shutdown completed.
+2022-04-29 10:42:57.142  WARN 15357 --- [restartedMain] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5003 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:43:02.145  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Starting SpringStudyApplication using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 15357 (/Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy/target/classes started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:43:02.145  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:43:02.275  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:43:02.277  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:43:02.338  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-04-29 10:43:02.338  INFO 15357 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 10:43:02.338  INFO 15357 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 10:43:02.346  INFO 15357 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 10:43:02.346  INFO 15357 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 197 ms
+2022-04-29 10:43:12.450  WARN 15357 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-04-29 10:43:12.450  WARN 15357 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:43:12.468  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Starting...
+2022-04-29 10:43:12.476  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Start completed.
+2022-04-29 10:43:12.491  INFO 15357 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-29 10:43:12.501  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-04-29 10:43:12.505  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Started SpringStudyApplication in 30.395 seconds (JVM running for 16509.231)
+2022-04-29 10:43:12.507  INFO 15357 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-29 10:43:12.507  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 启动成功！！
+2022-04-29 10:43:12.507  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 地址: 	http://127.0.0.1:8089
+2022-04-29 10:43:53.357  INFO 15357 --- [Thread-48] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Shutdown initiated...
+2022-04-29 10:43:53.361  INFO 15357 --- [Thread-48] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Shutdown completed.
+2022-04-29 10:44:08.538  WARN 15357 --- [restartedMain] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5003 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:44:13.541  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Starting SpringStudyApplication using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 15357 (/Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy/target/classes started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:44:13.542  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:44:13.664  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:44:13.666  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:44:13.731  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-04-29 10:44:13.732  INFO 15357 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 10:44:13.732  INFO 15357 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 10:44:13.738  INFO 15357 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 10:44:13.738  INFO 15357 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 193 ms
+2022-04-29 10:44:20.423  WARN 24271 --- [main] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5003 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:44:23.843  WARN 15357 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-04-29 10:44:23.844  WARN 15357 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:44:23.861  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Starting...
+2022-04-29 10:44:23.870  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Start completed.
+2022-04-29 10:44:23.886  INFO 15357 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-29 10:44:23.901  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-04-29 10:44:23.907  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Started SpringStudyApplication in 30.412 seconds (JVM running for 16580.634)
+2022-04-29 10:44:23.909  INFO 15357 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-29 10:44:23.909  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 启动成功！！
+2022-04-29 10:44:23.909  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 地址: 	http://127.0.0.1:8089
+2022-04-29 10:44:25.429  INFO 24271 --- [main] c.e.springstudy.generator.CodeGenerator  : Starting CodeGenerator using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 24271 (started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:44:25.431  INFO 24271 --- [main] c.e.springstudy.generator.CodeGenerator  : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:44:26.484  INFO 24271 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:44:26.510  INFO 24271 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 16 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:44:48.914  WARN 24271 --- [main] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:44:49.201  INFO 24271 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-29 10:44:49.536  INFO 24271 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-04-29 10:44:49.868  INFO 24271 --- [main] c.e.springstudy.generator.CodeGenerator  : Started CodeGenerator in 45.014 seconds (JVM running for 47.006)
+2022-04-29 10:44:50.328  WARN 24271 --- [main] org.apache.velocity.deprecation          : configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-04-29 10:44:50.328  WARN 24271 --- [main] org.apache.velocity.deprecation          : configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-04-29 10:44:50.682  INFO 24271 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-04-29 10:44:50.690  INFO 24271 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-04-29 10:44:51.538  INFO 15357 --- [Thread-52] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Shutdown initiated...
+2022-04-29 10:44:51.544  INFO 15357 --- [Thread-52] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Shutdown completed.
+2022-04-29 10:45:06.703  WARN 15357 --- [restartedMain] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5001 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:45:11.707  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Starting SpringStudyApplication using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 15357 (/Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy/target/classes started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:45:11.708  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:45:11.865  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:45:11.866  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 1 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:45:11.941  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-04-29 10:45:11.942  INFO 15357 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 10:45:11.942  INFO 15357 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 10:45:11.948  INFO 15357 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 10:45:11.948  INFO 15357 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 237 ms
+2022-04-29 10:45:22.058  WARN 15357 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-04-29 10:45:22.059  WARN 15357 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:45:22.077  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-11 - Starting...
+2022-04-29 10:45:22.082  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-11 - Start completed.
+2022-04-29 10:45:22.095  INFO 15357 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-29 10:45:22.106  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-04-29 10:45:22.110  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Started SpringStudyApplication in 30.445 seconds (JVM running for 16638.838)
+2022-04-29 10:45:22.111  INFO 15357 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-29 10:45:22.112  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 启动成功！！
+2022-04-29 10:45:22.112  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 地址: 	http://127.0.0.1:8089
+2022-04-29 10:54:40.864  INFO 15357 --- [Thread-56] com.zaxxer.hikari.HikariDataSource       : HikariPool-11 - Shutdown initiated...
+2022-04-29 10:54:40.869  INFO 15357 --- [Thread-56] com.zaxxer.hikari.HikariDataSource       : HikariPool-11 - Shutdown completed.
+2022-04-29 10:54:56.053  WARN 15357 --- [restartedMain] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5001 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 10:55:01.054  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Starting SpringStudyApplication using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 15357 (/Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy/target/classes started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 10:55:01.055  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 10:55:01.229  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 10:55:01.235  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 JDBC repository interfaces.
+2022-04-29 10:55:01.313  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-04-29 10:55:01.313  INFO 15357 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 10:55:01.314  INFO 15357 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 10:55:01.358  INFO 15357 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 10:55:01.358  INFO 15357 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 298 ms
+2022-04-29 10:55:11.672  WARN 15357 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-04-29 10:55:11.673  WARN 15357 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 10:55:11.701  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-12 - Starting...
+2022-04-29 10:55:11.710  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-12 - Start completed.
+2022-04-29 10:55:11.726  INFO 15357 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-29 10:55:11.739  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-04-29 10:55:11.743  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Started SpringStudyApplication in 30.727 seconds (JVM running for 17228.48)
+2022-04-29 10:55:11.744  INFO 15357 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-29 10:55:11.745  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 启动成功！！
+2022-04-29 10:55:11.745  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 地址: 	http://127.0.0.1:8089
+2022-04-29 11:31:43.388  WARN 25242 --- [main] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5002 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 11:31:48.399  INFO 25242 --- [main] c.e.springstudy.generator.CodeGenerator  : Starting CodeGenerator using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 25242 (started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 11:31:48.400  INFO 25242 --- [main] c.e.springstudy.generator.CodeGenerator  : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 11:31:49.236  INFO 25242 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 11:31:49.261  INFO 25242 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 19 ms. Found 0 JDBC repository interfaces.
+2022-04-29 11:32:11.989  WARN 25242 --- [main] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 11:32:12.268  INFO 25242 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-29 11:32:12.612  INFO 25242 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-04-29 11:32:13.007  INFO 25242 --- [main] c.e.springstudy.generator.CodeGenerator  : Started CodeGenerator in 45.362 seconds (JVM running for 47.792)
+2022-04-29 11:32:13.593  WARN 25242 --- [main] org.apache.velocity.deprecation          : configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-04-29 11:32:13.593  WARN 25242 --- [main] org.apache.velocity.deprecation          : configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-04-29 11:32:14.078  INFO 25242 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-04-29 11:32:14.086  INFO 25242 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-04-29 11:32:15.758  INFO 15357 --- [Thread-60] com.zaxxer.hikari.HikariDataSource       : HikariPool-12 - Shutdown initiated...
+2022-04-29 11:32:15.767  INFO 15357 --- [Thread-60] com.zaxxer.hikari.HikariDataSource       : HikariPool-12 - Shutdown completed.
+2022-04-29 11:32:31.620  WARN 15357 --- [restartedMain] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5007 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 11:32:36.863  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Starting SpringStudyApplication using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 15357 (/Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy/target/classes started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 11:32:36.882  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 11:32:37.402  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 11:32:37.409  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 0 JDBC repository interfaces.
+2022-04-29 11:32:37.513  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-04-29 11:32:37.514  INFO 15357 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 11:32:37.514  INFO 15357 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 11:32:37.531  INFO 15357 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 11:32:37.532  INFO 15357 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 645 ms
+2022-04-29 11:32:42.694  WARN 15357 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-04-29 11:32:42.695  WARN 15357 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 11:32:42.712  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-13 - Starting...
+2022-04-29 11:32:42.718  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-13 - Start completed.
+2022-04-29 11:32:42.738  INFO 15357 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-29 11:32:42.749  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-04-29 11:32:42.754  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Started SpringStudyApplication in 26.204 seconds (JVM running for 19479.433)
+2022-04-29 11:32:42.755  INFO 15357 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-29 11:32:42.756  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 启动成功！！
+2022-04-29 11:32:42.756  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 地址: 	http://127.0.0.1:8089
+2022-04-29 11:32:44.191  INFO 15357 --- [Thread-64] com.zaxxer.hikari.HikariDataSource       : HikariPool-13 - Shutdown initiated...
+2022-04-29 11:32:44.194  INFO 15357 --- [Thread-64] com.zaxxer.hikari.HikariDataSource       : HikariPool-13 - Shutdown completed.
+2022-04-29 11:32:54.314  WARN 15357 --- [restartedMain] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 4997 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2022-04-29 11:32:54.315  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Starting SpringStudyApplication using Java 1.8.0_301 on zhaojunchengdeMacBook-Pro.local with PID 15357 (/Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy/target/classes started by zhaojuncheng in /Users/zhaojuncheng/webProgram/devProjects/javaProject/springStudy)
+2022-04-29 11:32:54.315  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-04-29 11:32:54.433  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-04-29 11:32:54.436  INFO 15357 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 2 ms. Found 0 JDBC repository interfaces.
+2022-04-29 11:32:54.493  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-04-29 11:32:54.494  INFO 15357 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-29 11:32:54.494  INFO 15357 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-04-29 11:32:54.503  INFO 15357 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-29 11:32:54.503  INFO 15357 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 185 ms
+2022-04-29 11:33:04.631  WARN 15357 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-04-29 11:33:04.631  WARN 15357 --- [restartedMain] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-04-29 11:33:04.648  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-14 - Starting...
+2022-04-29 11:33:04.651  INFO 15357 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-14 - Start completed.
+2022-04-29 11:33:04.663  INFO 15357 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-29 11:33:04.675  INFO 15357 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-04-29 11:33:04.679  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : Started SpringStudyApplication in 20.403 seconds (JVM running for 19501.385)
+2022-04-29 11:33:04.680  INFO 15357 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-29 11:33:04.681  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 启动成功！！
+2022-04-29 11:33:04.681  INFO 15357 --- [restartedMain] c.e.springstudy.SpringStudyApplication   : 地址: 	http://127.0.0.1:8089
+2022-04-29 12:03:21.798  WARN 15357 --- [HikariPool-14 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-14 - Thread starvation or clock leap detected (housekeeper delta=30m17s38ms).
